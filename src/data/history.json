@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Placement Coordinator",
+    "organisation": "AKGEC",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Coordinated and executed over 60 campus recruitment drives and pool campus drives", "Collaborated with 500+ students."],
+    "imageSrc": "history/Tnp.png"
+  },
+  {
+    "role": "SDE Intern",
+    "organisation": "Fertisense LLP",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "experiences": ["Created REST APIs to retrieve and display data from databases, improving data access speed by 30%.", "Implemented authentication and authorization system with Express.js"],
+    "imageSrc": "history/fertisense.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "Adnecto Technologies",
+    "startDate": "Feb, 2024",
+    "endDate": "March, 2024",
+    "experiences": ["Worked on Blogging Website", "Utilized Node.js, Express.js, and MongoDB for back end development, enhancing data retrieval efficiency by 30%."],
+    "imageSrc": "history/Adnecto.png"
+  }
+]
