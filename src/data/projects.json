@@ -2,25 +2,26 @@
   {
     "title": "Estate Ease",
     "imageSrc": "projects/project.png",
-    "description": "This is a real estate application using the MERN stack to manage property listings, user authentication and interactive maps.",
+    "description": "This is a real estate application  to manage property listings, user authentication and interactive maps.",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ishitagit2003/EstateEase"
   },
   {
     "title": "Burgers Co.",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This is an E Commerce application built with MVC frameworks to develop robust and scalable back end.",
+    "skills": ["Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "hhttps://github.com/ishitagit2003/E-Commerce"
   },
+
   {
-    "title": "Project C",
+    "title": "Blogify",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Blogify is a simple and lightweight blogging application that allows users to create, edit, and delete blog posts.",
+    "skills": ["Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/ishitagit2003/Blogify-app"
   }
 ]
